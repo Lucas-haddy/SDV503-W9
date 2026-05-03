@@ -1,0 +1,27 @@
+{
+  "name": "sdv503-w9",
+  "version": "1.0.0",
+  "description": "SDV503 Week 9 for JavaScript learning. Changes may occur during class while learning advances.",
+  "main": "index.js",
+  "scripts": {
+    "promises": "node src/01-promises-async-await.js",
+    "json": "node src/02-json.js",
+    "data": "node src/03-data-modeling.js",
+    "trust": "node src/04-trust-boundary.js",
+    "algo": "node src/05-algorithms-data-structures.js",
+    "all": "node src/run-all.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-haddy/SDV503-W9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lucas-haddy/SDV503-W9/issues"
+  },
+  "homepage": "https://github.com/Lucas-haddy/SDV503-W9#readme"
+}
